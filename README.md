@@ -69,6 +69,10 @@ llm:
 
 ## ⚙️ Step 3: Update Models & Agents
 
+Edit this file:
+ROMA/src/sentientresearchagent/hierarchical_agent_framework/agent_configs/agents.yaml
+Replace it with the version I attached in the repository.
+
 ### Add Fireworks AI
 
 Edit `ROMA/src/sentientresearchagent/config/config.py`:
